@@ -1,0 +1,31 @@
+	<style type="text/css">
+			/* document styles */
+			.disclaimer {border-top:1px solid #ccc;color:#879AB7;padding-top:.5em;font-size:.9em;}
+			dl {margin:0 1em;padding:0;}
+			dl, form {float:left;}
+			li {padding:.1em 0;}
+			hr {clear:both;width:100%;background:#fff;height:0;border:0;border-bottom:1px solid #fff;margin:0 0 1em;padding:0;}
+			
+			/* table styles */
+			table {border:0;padding:0;margin:0 0 1em;border-left:1px solid #336;border-top:1px solid #336;float:left;clear:left;}
+			tr {border:0;padding:0;margin:0;}
+			td, th {border:0;padding:2px 6px;margin:0;border-right:1px solid #336;border-bottom:1px solid #336;background-color:#EAEEF3;}
+			td[axis='number'], td[axis='date'] {text-align:right;}
+			th {white-space:no-wrap;background-color:#B4C4D1;padding:2px 20px;}
+			tfoot td {border-top:1px solid #003;}
+			thead th {border-bottom:2px solid #003;}
+			.odd td {background-color:#E8ECF1;}
+			.even td {background-color:#DDE5EB;}
+			.hover td {background-color:#A5B3C9;}
+			.sortedminus {background-color:#ecc;}
+			.sortedplus {background-color:#cec;}
+			.selrow td {background-color:#879AB7;}
+			
+			/* source-dest example styles */
+			#s {float:left;}
+			#d {float:left;clear:none;}
+			form#tabletool {margin:0;padding:0.5em;}
+			form#tabletool fieldset {width:8em;text-align:center;}
+			form#tabletool legend {margin:0 auto;}
+			form#tabletool input {margin:0.5em;}
+		</style>
