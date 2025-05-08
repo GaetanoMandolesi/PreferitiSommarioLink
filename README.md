@@ -15,6 +15,6 @@ Comunque:
 Tutto qui: potrete registrare e leggere i vostri "preferiti" in una specie di "sommario" "linkabile".
 
 I due progetti si differenziano di poco: il secondo, se la lista si dovesse fare estremamente lunga, ha, in calce, cioè alla fine,
-una casella di testo di "ricerca nella pagina", facilmente raggiungibile. Diversamente, nella prima versine, bisogna scorrere per raggiungerla in testa.
+una casella di testo di "ricerca nella pagina", facilmente raggiungibile. Diversamente, nella prima versione, bisogna scorrere per raggiungerla in testa.
 
 Spero utile.
